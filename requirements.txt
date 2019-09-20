@@ -1,0 +1,17 @@
+bokeh
+bs4
+IPython
+matplotlib
+nose
+numpy
+pandas
+pymongo
+requests
+scipy
+seaborn
+sklearn
+statistics
+statsmodels
+tabulate
+tensorflow
+tweepy
